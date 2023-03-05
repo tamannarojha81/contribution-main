@@ -54,7 +54,7 @@ Now create a branch using the `git switch` command:
 git switch -c your-new-branch-name
 ```
 
-For example:
+For example::
 
 ```
 git switch -c add-alonzo-church
